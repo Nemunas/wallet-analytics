@@ -1,0 +1,9 @@
+.venv/
+.env
+
+try_base_api_wallet_history.ipynb
+try_base_api.ipynb
+try_base_api_clean copy.ipynb
+*.csv
+
+lib/
